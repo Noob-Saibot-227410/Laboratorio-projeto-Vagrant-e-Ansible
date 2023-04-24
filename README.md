@@ -27,21 +27,16 @@ Antes de começar, você precisa ter o Vagrant e o Ansible instalados em sua má
 git clone https://github.com/seu-usuario/projeto-web-ansible.git
 
 arduino
-Copy code
 
 2. Navegue até o diretório do projeto:
 
 cd projeto-web-ansible
 
 markdown
-Copy code
 
 3. Inicie a máquina virtual usando o comando `vagrant up`:
 
 vagrant up
-
-bash
-Copy code
 
 4. Quando a máquina virtual estiver pronta, abra um navegador da web em sua máquina local e acesse http://localhost:8080. Você deverá ver a página "Welcome to my app" com informações do PHP.
 
