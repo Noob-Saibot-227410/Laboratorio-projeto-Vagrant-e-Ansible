@@ -43,5 +43,5 @@ vagrant up
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 <div align="center">
-  <sub>Feito com :heart: por Seu Nome Aqui</sub>
+  <sub>Feito com :heart: Davi</sub>
 </div>
