@@ -24,7 +24,7 @@ Antes de começar, você precisa ter o Vagrant e o Ansible instalados em sua má
 
 1. Clone este repositório em seu diretório de projetos:
 
-git clone https://github.com/seu-usuario/projeto-web-ansible.git
+git clone https://github.com/devops-davi/Laboratorio-projeto-Vagrant-e-Ansible.git
 
 2. Navegue até o diretório do projeto:
 
