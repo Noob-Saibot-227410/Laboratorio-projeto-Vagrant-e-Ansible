@@ -26,8 +26,6 @@ Antes de começar, você precisa ter o Vagrant e o Ansible instalados em sua má
 
 git clone https://github.com/seu-usuario/projeto-web-ansible.git
 
-arduino
-
 2. Navegue até o diretório do projeto:
 
 cd projeto-web-ansible
